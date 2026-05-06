@@ -2,11 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
-Updates and bug fixes are done daily :100:.
-
-Star :star:  the repo to help the developers :innocent:
-
-
 ##  Product Features and Screen Shots
 
 
